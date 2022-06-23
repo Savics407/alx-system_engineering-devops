@@ -1,0 +1,6 @@
+total 8
+drwxr-xr-x 4 root root   60 Jun 23 05:44 .
+drwxr-xr-x 1 root root  156 Jun 23 05:17 ..
+drwxr-xr-x 2 root root 4096 Jun 23 15:14 0x00-shell_basics
+drwxr-xr-x 8 root root  221 Jun 23 14:22 .git
+-rw-r--r-- 1 root root   17 Jun 23 05:44 README.md
